@@ -1,7 +1,13 @@
-# Onyedikachukwu Udeaja — MIT 8103
+# Local Ride Booking and Fare Ledger
 
-Student ID: 301905542
+Onyedikachukwu Udeaja · Student ID 301905542
 
-Local Ride Booking and Fare Ledger. Entities: Rider, Driver, Vehicle, Ride; Driver references Vehicle, and Ride references Rider and Driver. Require a unique vehicle plate and a nonnegative fare with CHECK. Query daily ride counts and fare totals by driver. A SQL transaction creates a new rider and their ride together. MongoDB ride events snapshot the ride plus its rider, driver, and vehicle.
+The portfolio uses fictional records for Local Ride Booking and Fare Ledger.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Udeaja_Onyedikachukwu_301905542_FinalSummary.md) · [PDF](Udeaja_Onyedikachukwu_301905542_FinalSummary.pdf)
